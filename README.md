@@ -17,7 +17,7 @@ UdentifyNFC is a proprietary iOS SDK developed by **Fraud.com International LTD*
 ## Requirements
 
 - iOS 13.0+
-- Xcode 16.2+
+- Xcode 26.1.1
 - Swift 5.0+
 - Device with NFC capability (iPhone 7 or later)
 
