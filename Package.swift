@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "UdentifyNFC",
-            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397612083.zip",
-            checksum: "5f54f77b8bf8bfdf824a56675031ba5af1fb2d3cdbe55646aa49d2fe81c2bd97"
+            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397881012.zip",
+            checksum: "20bb3a456059f43199a26b09e54507928ad5995f815fef451753e2140379f4a5"
         )
     ]
 )
