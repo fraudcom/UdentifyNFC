@@ -10,13 +10,13 @@ let package = Package(
     ],
     dependencies: [
         // Specify the dependency on `UdentifyCommons` with its repository URL and version or branch.
-        .package(url: "https://github.com/fraudcom/UdentifyCommons.git", .exact("26.1.3"))
+        .package(url: "https://github.com/fraudcom/UdentifyCommons.git", .exact("26.3.0814"))
     ],
     targets: [
         .binaryTarget(
             name: "UdentifyNFC",
-            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/397881012.zip",
-            checksum: "20bb3a456059f43199a26b09e54507928ad5995f815fef451753e2140379f4a5"
+            url: "https://api.github.com/repos/fraudcom/mobile/releases/assets/514147606.zip",
+            checksum: "555f9f667e5ee2fcd905a025fc78c4223a7ee81e086a4ac02432c920f2b8672f"
         )
     ]
 )
